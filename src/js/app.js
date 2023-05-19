@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default class App {
   constructor(boardsize) {
     this.goblin = document.createElement('div');
